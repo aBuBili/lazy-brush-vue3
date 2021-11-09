@@ -1,0 +1,20 @@
+{
+  "name": "my-vue-app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "catenary-curve": "^1.0.1",
+    "lazy-brush": "^1.0.1",
+    "resize-observer-polyfill": "^1.5.1",
+    "sass": "1.43.4",
+    "vue": "^3.2.16"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "vite": "^2.6.4"
+  }
+}

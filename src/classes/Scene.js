@@ -345,6 +345,7 @@ export default class Scene {
     }
   }
 
+  // 画网格
   drawGrid(ctx) {
     ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height)
 
